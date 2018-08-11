@@ -1,0 +1,11 @@
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\bin\Debug\netcoreapp2.0\WebApıCoreCRUD.deps.json
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\bin\Debug\netcoreapp2.0\WebApıCoreCRUD.runtimeconfig.json
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\bin\Debug\netcoreapp2.0\WebApıCoreCRUD.runtimeconfig.dev.json
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\bin\Debug\netcoreapp2.0\WebApıCoreCRUD.dll
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\obj\Debug\netcoreapp2.0\WebApıCoreCRUD.csprojAssemblyReference.cache
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\obj\Debug\netcoreapp2.0\WebApıCoreCRUD.csproj.CoreCompileInputs.cache
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\obj\Debug\netcoreapp2.0\WebApıCoreCRUD.AssemblyInfoInputs.cache
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\obj\Debug\netcoreapp2.0\WebApıCoreCRUD.AssemblyInfo.cs
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\bin\Debug\netcoreapp2.0\WebApıCoreCRUD.pdb
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\obj\Debug\netcoreapp2.0\WebApıCoreCRUD.dll
+c:\users\ilhandemirtepe\Source\Repos\WebApıCoreCRUD\WebApıCoreCRUD\obj\Debug\netcoreapp2.0\WebApıCoreCRUD.pdb
